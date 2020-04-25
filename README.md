@@ -1,13 +1,13 @@
 # Assembly-programming-amd64-and-x86
-A. Simple programs Fibonacci and Calculator in Assembly
+<b> A. Simple programs Fibonacci and Calculator in Assembly </b> <br>
 
-The Fibonacci function is defined as:
+The Fibonacci function is defined as: </br>
 
 fib(0) = 0 </br>
 fib(1) = 1 </br>
 fib(x) = fib(x-1) + fib(x-2) when x > 1 </br>
 
-B. Simple Arithmetic Calculator </br>
+<b> B. Simple Arithmetic Calculator</b> </br>
 Example </br>
 $ ./calc32 1 + 4 </br
 1 + 4 = 5 </br>
