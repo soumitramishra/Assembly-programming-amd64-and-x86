@@ -3,20 +3,20 @@ A. Simple programs Fibonacci and Calculator in Assembly
 
 The Fibonacci function is defined as:
 
-fib(0) = 0
-fib(1) = 1
-fib(x) = fib(x-1) + fib(x-2) when x > 1
+fib(0) = 0 </br>
+fib(1) = 1 </br>
+fib(x) = fib(x-1) + fib(x-2) when x > 1 </br>
 
-B. Simple Arithmetic Calculator
-Example
-$ ./calc32 1 + 4
-1 + 4 = 5
+B. Simple Arithmetic Calculator </br>
+Example </br>
+$ ./calc32 1 + 4 </br
+1 + 4 = 5 </br>
 
-$ ./ccalc 2 "*" 7
-2 * 7 = 14
+$ ./ccalc 2 "*" 7 </br>
+2 * 7 = 14 </br>
 
-$ ./calc64 2 / 70
-2 / 70 = 0
+$ ./calc64 2 / 70 </br>
+2 / 70 = 0 </br>
 
 $ ./ccalc
 Usage:
