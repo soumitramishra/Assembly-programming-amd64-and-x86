@@ -11,10 +11,13 @@ B. Simple Arithmetic Calculator
 Example
 $ ./calc32 1 + 4
 1 + 4 = 5
+
 $ ./ccalc 2 "*" 7
 2 * 7 = 14
+
 $ ./calc64 2 / 70
 2 / 70 = 0
+
 $ ./ccalc
 Usage:
   ./ccalc N op N
